@@ -7,9 +7,3 @@ echo "Arithmetic computation and sorting"
 read -p "enter a:" a
 read -p "enter b:" b
 read -p "enter c:" c
-
-#uc2 Computation1
-
-Computation1=$(( a+b*c ))
-echo "Computation1=" $Computation1
-
