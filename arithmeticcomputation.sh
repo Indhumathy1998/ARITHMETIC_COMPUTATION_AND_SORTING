@@ -18,6 +18,3 @@ echo "Computation1=" $Computation1
 Computation2=$(( a*b+c ))
 echo "Computation2=" $Computation2
 
-#uc4 Computation3
-Computation3=$(( c+a/b ))
-echo "Computation3=" $Computation3
